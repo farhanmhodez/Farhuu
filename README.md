@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83164448?v=4" width="200" height="200"/>
+  <img border-radius: 15px src="Farhan.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="Farhuu" src="https://img.shields.io/badge/Farhuu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -21,7 +21,7 @@ Project created by <a href="https://github.com/Farhanmhodez">Farhanmhodez</a> to
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Farhanmhodez/Julie-Mwol) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Farhanmhodez/Farhu) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/Farhuu)
   
@@ -30,8 +30,8 @@ Project created by <a href="https://github.com/Farhanmhodez">Farhanmhodez</a> to
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Farhanmhodez/Julie-Mwol
-$ cd Julie-Mwol
+$ git clone https://github.com/Farhanmhodez/Farhu
+$ cd Farhu
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -51,7 +51,7 @@ $ node julie.js
   <a href="httsp://github.com/Farhanmhodez/Farhuu">
     
 <a href="https://github.com/Farhanmhodez/followers">
-<img src="https://img.shields.io/github/repo-size/Farhanmhodez/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
+<img src="https://img.shields.io/github/repo-size/Farhanmhodez/Farhu?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Farhanmhodez/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Farhanmhodez?color=blue&style=flat-square"></a>
@@ -67,7 +67,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Farhanmhodez&repo=Julie-Mwol&theme=nightowl)](https://github.com/Farhanmhodez/Julie-Mwol)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Farhanmhodez&repo=Farhu&theme=nightowl)](https://github.com/Farhanmhodez/Farhu)
   </div>
     
 ### ⚠️ Warning! 
